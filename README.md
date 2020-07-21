@@ -1,2 +1,2 @@
-# CrearCurpdelUsuario
-Este programa crea un curp mediante los datos introducidos.
+# CrearRFCdelUsuario
+Este programa crea un RFC mediante los datos introducidos.
